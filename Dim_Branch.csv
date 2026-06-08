@@ -1,0 +1,9 @@
+BranchID,Branch,Region,Manager
+B001,Mumbai,West,Manager Mumbai
+B002,Pune,West,Manager Pune
+B003,Delhi,North,Manager Delhi
+B004,Bangalore,South,Manager Bangalore
+B005,Chennai,South,Manager Chennai
+B006,Hyderabad,South,Manager Hyderabad
+B007,Kolkata,East,Manager Kolkata
+B008,Ahmedabad,West,Manager Ahmedabad
