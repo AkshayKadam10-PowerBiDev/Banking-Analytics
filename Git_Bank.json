@@ -1,0 +1,30 @@
+[
+    {
+        "p_rel_url" : "AkshayKadam10-PowerBiDev/Banking-Analytics/refs/heads/main/Dim_Branch.csv",
+        "p_sink_file" : "Dim_Branch.csv"
+    },
+    {
+        "p_rel_url" : "AkshayKadam10-PowerBiDev/Banking-Analytics/refs/heads/main/Dim_Customer.csv",
+        "p_sink_file" : "Dim_Customer.csv"
+    },
+    {
+        "p_rel_url" : "AkshayKadam10-PowerBiDev/Banking-Analytics/refs/heads/main/Dim_Date.csv",
+        "p_sink_file" : "Dim_Date"
+    },
+    {
+        "p_rel_url" : "AkshayKadam10-PowerBiDev/Banking-Analytics/refs/heads/main/Fact_AML.csv",
+        "p_sink_file" : "Fact_AML.csv"
+    },
+    {
+        "p_rel_url" : "AkshayKadam10-PowerBiDev/Banking-Analytics/refs/heads/main/Fact_Collection.csv",
+        "p_sink_file" : "Fact_Collection.csv"
+    },
+    {
+        "p_rel_url" : "AkshayKadam10-PowerBiDev/Banking-Analytics/refs/heads/main/Fact_Loans.csv",
+        "p_sink_file" : "Fact_Loans.cvs"
+    },
+    {
+        "p_rel_url" : "AkshayKadam10-PowerBiDev/Banking-Analytics/refs/heads/main/Fact_Transactions.csv",
+        "p_sink_file" : "Fact_Transactions.csv"
+    }
+]
