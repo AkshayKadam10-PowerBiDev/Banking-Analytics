@@ -16,8 +16,8 @@
         "p_sink_file" : "Fact_AML.csv"
     },
     {
-        "p_rel_url" : "AkshayKadam10-PowerBiDev/Banking-Analytics/refs/heads/main/Fact_Collection.csv",
-        "p_sink_file" : "Fact_Collection.csv"
+        "p_rel_url" : "AkshayKadam10-PowerBiDev/Banking-Analytics/refs/heads/main/Fact_Collections.csv",
+        "p_sink_file" : "Fact_Collections.csv"
     },
     {
         "p_rel_url" : "AkshayKadam10-PowerBiDev/Banking-Analytics/refs/heads/main/Fact_Loans.csv",
